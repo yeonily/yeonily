@@ -1,6 +1,7 @@
 <div align="center">
 
   안녕하세요~ 개발자 김지연입니다. 🐣🐤🐥<br>
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://cod2022.tistory.com/)](https://cod2022.tistory.com/)
   #
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
