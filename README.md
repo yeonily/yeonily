@@ -38,12 +38,12 @@
 
 
   
-<div align="center">
+
   
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonily&layout=compact&theme=vision-friendly-dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonily&show_icons=true&theme=vision-friendly-dark)  
   
-  </div>
+
 
   
   
