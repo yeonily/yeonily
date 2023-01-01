@@ -6,26 +6,19 @@
 <div align="center">
 
   #
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-  ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![SourceTree](https://img.shields.io/badge/SourceTree-%230167ff?style=for-the-badge&logo=sourcetree&logoColor=white)
-  ![Spring boot](https://img.shields.io/badge/Springboot-6db33f?style=for-the-badge&logo=springboot&logoColor=white)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-  ![JPA](https://img.shields.io/badge/JPA-000?style=for-the-badge&logo=jpa&logoColor=white)
-  ![QueryDSL](https://img.shields.io/badge/QueryDSL-000?style=for-the-badge&logo=QueryDSL&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## Skills
+
+| Back-End | Front-End | Database | IDE |
+| --- | --- | --- | --- |
+| <span><img src="https://img.shields.io/badge/-JAVA-blueviolet"/></span> <span><img src="https://img.shields.io/badge/-JSP-red"/></span> <span><img src="https://img.shields.io/badge/-JPA-yellowgreen"/></span> <span><img src="https://img.shields.io/badge/JSON-00000?style=round-square&logo=JSON&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=JavaScript&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jQuery&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/HTML-E34F26?style=round-square&logo=HTML&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/CSS-1572B6?style=round-square&logo=CSS&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/MariaDB-003545?style=round-square&logo=mariadb&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=round-square&logo=mysql&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Oracle-F80000.svg?style=round-square&logo=mysql&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-MyBatis-orange"/></span> | <span><img src="https://img.shields.io/badge/Eclipse-2C2255.svg?style=round-square&logo=Eclipse&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=round-square&logo=Visual Studio Code&logoColor=white"/></span> <br> <span><img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=round-square&logo=IntelliJ IDEA&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/-DBeaver-brightgreen"/></span> <span><img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=round-square&logo=Sourcetree&logoColor=white"/></span> <span><img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=round-square&logo=Postman&logoColor=white"/></span> |
+
+
+## Tools
+
+| Communication | Management | Environment | API |
+| --- | --- | --- | --- |
+| <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-yml-brightgreen"/></span> | <span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-QueryDSL-critical"/></span> <span><img src="https://img.shields.io/badge/-Quartz-ff69b4"/></span> <span><img src="https://img.shields.io/badge/JUnit-25A162?style=round-square&logo=JUnit&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-JDBC-blue"/></span> <br>  <span><img src="https://img.shields.io/badge/-Summernote-blueviolet"/></span>  <span><img src="https://img.shields.io/badge/-Kakao%20Map-yellow"/></span> |
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonily&show_icons=true&theme=vision-friendly-dark)
   
