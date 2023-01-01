@@ -16,8 +16,7 @@
   <a href="https://cod2022.tistory.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>  
   </a>
-  
-  
+    
   
 </div>
 
