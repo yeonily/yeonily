@@ -5,7 +5,7 @@
 
 
 
-<div align="center">## Skills</div>
+## Skills
 
 | Back-End | Front-End | Database | IDE |
 | --- | --- | --- | --- |
@@ -13,7 +13,7 @@
 
 
 
-<div align="center">## Tools</div>
+## Tools
 
 | Communication | Management | Environment | API |
 | --- | --- | --- | --- |
@@ -21,7 +21,9 @@
   
 
 <div align="center">
+  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonily&show_icons=true&theme=vision-friendly-dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonily&layout=compact&theme=vision-friendly-dark)
+  
   </div>
 
   
