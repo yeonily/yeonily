@@ -1,11 +1,11 @@
-
-### 🐣 안녕하세요~ 부단히 노력하는 개발자 김지연입니다. 🐣
-<div align="right">
-  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wluds9791@gmail.com)](mailto:wluds9791@gmail.com)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonily&count_bg=%23F3A2FF&title_bg=%23BA95FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+<div align="right">
+  
+### 🐣 안녕하세요~ 부단히 노력하는 개발자 김지연입니다. 🐣
+  
 </div>
 
 
