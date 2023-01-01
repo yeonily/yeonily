@@ -23,8 +23,10 @@
 | <span><img src="https://img.shields.io/badge/Slack-4A154B.svg?style=round-square&logo=Slack&logoColor=white"/></span><span><img src="https://img.shields.io/badge/Discord-5865F2?style=round-square&logo=Discord&logoColor=black"/></span> | <span><img src="https://img.shields.io/badge/Git-F05032?style=round-square&logo=Git&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/GitHub-181717?style=round-square&logo=GitHub&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/Gradle-02303A?style=round-square&logo=Gradle&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-yml-brightgreen"/></span> | <span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=round-square&logo=Spring&logoColor=black"/></span> <span><img src="https://img.shields.io/badge/-QueryDSL-critical"/></span> <span><img src="https://img.shields.io/badge/-Quartz-ff69b4"/></span> <span><img src="https://img.shields.io/badge/JUnit-25A162?style=round-square&logo=JUnit&logoColor=white"/></span> | <span><img src="https://img.shields.io/badge/-JDBC-blue"/></span> <br>  <span><img src="https://img.shields.io/badge/-Summernote-blueviolet"/></span>  <span><img src="https://img.shields.io/badge/-Kakao%20Map-yellow"/></span> |
   
 
+
   
 <div align="center">
+  
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeonily&layout=compact&theme=vision-friendly-dark)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonily&show_icons=true&theme=vision-friendly-dark)  
   
