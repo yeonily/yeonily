@@ -1,5 +1,5 @@
 
-### 안녕하세요~ 개발자 김지연입니다. 🐣🐤🐥
+### 🐣 안녕하세요~ 부단히 노력하는 개발자 김지연입니다. 🐣
 <div align="right">
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wluds9791@gmail.com)](mailto:wluds9791@gmail.com)
