@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi, I'm Jiyeon 🐶 
+  # Keep going! 🐶 
   
 </div>
 
@@ -8,7 +8,6 @@
 <div align="right">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonily&count_bg=%23F3A2FF&title_bg=%23BA95FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wluds9791@gmail.com)](mailto:wluds9791@gmail.com)
   <a href="https://astonishing-caravel-6f0.notion.site/e4e9fd17006142449fbcfb72e2b35dbf"> 
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
