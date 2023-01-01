@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hi, I'm Jiyeon 🐶 
+# Hi, I'm Jiyeon 🐶 
   
 </div>
 
